@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.CabInvoiceGeneratorTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-19T16:37:20" hostname="DESKTOP-AQCADIB" time="0.081">
+  <properties/>
+  <testcase name="givenUserId_InvoiceGenerator_shouldReturn_ListOfRideHistory_AndInvoiceSummary()" classname="com.bridgelabz.CabInvoiceGeneratorTesting" time="0.081"/>
+  <system-out><![CDATA[25.0
+70.0
+143.0
+Total fare of multiple Ride=143.0
+no of rides= 3 and Avarage = 47.666666666666664
+expected no of rides = 3 and expected Avarage = 47.666666666666664
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
